@@ -1,0 +1,7 @@
+.some-parallax {
+    background-image: url('../../../assets/images/software.jpg');
+    background-size: 100%;
+    height:300px;
+    width: 100%;
+    background-repeat: no-repeat;
+  }

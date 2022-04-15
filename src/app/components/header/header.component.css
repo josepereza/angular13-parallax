@@ -1,0 +1,10 @@
+.cabezera{
+    position:relative;
+    top:0;
+    height: 100vh;
+    background-image: url('../../../assets/images/network.jpg');
+    background-position: center  center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
